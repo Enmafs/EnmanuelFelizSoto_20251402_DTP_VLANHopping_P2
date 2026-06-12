@@ -13,13 +13,13 @@ Demostrar un ataque DTP que convierte una interfaz de acceso en trunk, permitien
 Enviar mensajes DTP Negotiate para que el switch negocie un enlace trunk con el atacante, dándole acceso a todas las VLANs.
 
 ## 🗺️ Topología
-![Topología](https://raw.githubusercontent.com/Enmafs/EnmanuelFelizSoto_20251402_DTP_VLANHopping_P2/main/topologia.png)
+<img width="1430" height="477" alt="Captura de pantalla 2026-06-12 014740" src="https://github.com/user-attachments/assets/64956e2c-3cba-4165-8dee-bf5bda5c9101" />
 
 ### Estado del SW — Antes del ataque
-![Antes del ataque](https://raw.githubusercontent.com/Enmafs/EnmanuelFelizSoto_20251402_DTP_VLANHopping_P2/main/dtp_before.png)
+<img width="1363" height="1154" alt="ChatGPT Image 11 jun 2026, 22_36_47" src="https://github.com/user-attachments/assets/21f743af-d285-4360-9ba1-1c2d8b921504" />
 
 ### Estado del SW — Después del ataque
-![Después del ataque](https://raw.githubusercontent.com/Enmafs/EnmanuelFelizSoto_20251402_DTP_VLANHopping_P2/main/dtp_after.png)
+<img width="565" height="342" alt="Captura de pantalla 2026-06-11 224638" src="https://github.com/user-attachments/assets/956eac72-868e-4be7-bb1a-6947f7867a2a" />
 
 | Dispositivo | Rol | Estado Puerto |
 |-------------|-----|---------------|
